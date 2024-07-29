@@ -1,5 +1,14 @@
 # LeetCode Problems
 
+<div align="center">
+    <img src="logo.png">
+    <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Language: Python">
+    <a href="LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </a>
+
+</div>
+
 ## Table of Contents
 
 - [Arrays & Hashing](#arrays--hashing)
@@ -235,4 +244,3 @@
 | [ ]    | [Missing Number](https://leetcode.com/problems/missing-number/)           | Easy       | [Code](#) |
 | [ ]    | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Easy       | [Code](#) |
 | [ ]    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)         | Medium     | [Code](#) |
-
