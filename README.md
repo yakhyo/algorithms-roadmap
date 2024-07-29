@@ -1,5 +1,3 @@
-# LeetCode Problems
-
 <div align="center">
     <img src="logo.png">
     <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Language: Python">
