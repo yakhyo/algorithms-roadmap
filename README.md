@@ -28,17 +28,17 @@
 
 ## Arrays & Hashing
 
-| Status | Problem                                                                                    | Difficulty | Code                                                                   |
-| ------ | ------------------------------------------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
-| ✅     | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                     | Easy       | [Code](01-arrays%20and%20hashing/0217_contains_duplicates.py)          |
-| ✅     | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                               | Easy       | [Code](01-arrays%20and%20hashing/0242_valid_anagram.py)                |
-| ✅     | [Two Sum](https://leetcode.com/problems/two-sum)                                           | Easy       | [Code](01-arrays%20and%20hashing/0001_two_sum.py)                      |
-| ✅     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                             | Medium     | [Code](01-arrays%20and%20hashing/0049_group_anagrams.py)               |
-| ✅     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)           | Medium     | [Code](01-arrays%20and%20hashing/0347_top_k_frequent_elements.py)      |
-| [ ]    | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)       | Medium     | [Code](#)                                                              |
-| ✅     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium     | [Code](01-arrays%20and%20hashing/0238_product_of_array_except_self.py) |
-| ✅     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                 | Medium     | [Code](01-arrays%20and%20hashing/0036_valid_sudoku.py)                 |
-| ✅     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Hard       | [Code](01-arrays%20and%20hashing/0128_longest_consecutive_sequence.py) |
+| Status | Problem                                                                                    | Difficulty | Code      |
+| ------ | ------------------------------------------------------------------------------------------ | ---------- | --------- |
+| [ ]    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                     | Easy       | [Code](#) |
+| [ ]    | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                               | Easy       | [Code](#) |
+| [ ]    | [Two Sum](https://leetcode.com/problems/two-sum)                                           | Easy       | [Code](#) |
+| [ ]    | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                             | Medium     | [Code](#) |
+| [ ]    | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)           | Medium     | [Code](#) |
+| [ ]    | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)       | Medium     | [Code](#) |
+| [ ]    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium     | [Code](#) |
+| [ ]    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                 | Medium     | [Code](#) |
+| [ ]    | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Hard       | [Code](#) |
 
 ## Two Pointers
 
