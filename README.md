@@ -7,6 +7,35 @@
 
 </div>
 
+## How to Use the Template Branch as Main
+
+> **⚠️ IMPORTANT:**  
+> If you've just forked this repository and want to use the `template` branch as your main branch, follow these steps:
+> 
+> 1. **Switch to the `template` branch**:
+>    ```bash
+>    git checkout template
+>    ```
+> 
+> 2. **Delete the `main` branch**:
+>    ```bash
+>    git branch -D main
+>    ```
+> 
+> 3. **Rename the `template` branch to `main**:
+>    ```bash
+>    git branch -m main
+>    git push -f origin main
+>    ```
+> 
+> 4. **Push Changes to Your Remote Repository**:
+>    ```bash
+>    git push --set-upstream origin main
+>    ```
+
+By following these steps, you will set the `template` branch as your new `main` branch.
+
+
 ## Table of Contents
 
 - [Arrays & Hashing](#arrays--hashing)
