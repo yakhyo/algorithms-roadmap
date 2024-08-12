@@ -73,13 +73,13 @@ By following these steps, you will set the `template` branch as your new `main` 
 
 ## Two Pointers
 
-| Status | Problem                                                                                            | Difficulty | Code      |
-| ------ | -------------------------------------------------------------------------------------------------- | ---------- | --------- |
-| [ ]    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                 | Easy       | [Code](#) |
-| [ ]    | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium     | [Code](#) |
-| [ ]    | [3Sum](https://leetcode.com/problems/3sum)                                                         | Medium     | [Code](#) |
-| [ ]    | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)               | Medium     | [Code](#) |
-| [ ]    | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                           | Hard       | [Code](#) |
+| Status | Problem                                                                                            | Difficulty | Code                                                         |
+| ------ | -------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| ✅     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                 | Easy       | [Code](02-two%20pointers/0125_valid_palindrome.py)           |
+| ✅     | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium     | [Code](02-two%20pointers/0167_two_sum_input_array_sorted.py) |
+| [ ]    | [3Sum](https://leetcode.com/problems/3sum)                                                         | Medium     | [Code](#)                                                    |
+| ✅     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)               | Medium     | [Code](02-two%20pointers/0011_container_with_most_water.py)  |
+| [ ]    | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                           | Hard       | [Code](#)                                                    |
 
 ## Sliding Window
 
